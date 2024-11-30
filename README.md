@@ -9,7 +9,7 @@
 
 
 #### **Live URL**
-https://rsternik.github.io/Homework_Day_Planner/
+https://maddogx2x.github.io/Homework_Day_Planner/
 
 #### **Preview**
 ![](assets/img/preview.png)
